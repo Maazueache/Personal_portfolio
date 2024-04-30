@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **maazueache@gmail.com**
 
-- 📄 Know about Me [https://maazportfolio.tiiny.site/](https://maazportfolio.tiiny.site/)
+- 📄 To Know about Me [https://maazportfolio.tiiny.site/](https://maazportfolio.tiiny.site/)
 
-- ⚡ Personal fact **I am a good athlete**
+- ⚡ Personal fact **'I am a good athlete'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
