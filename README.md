@@ -7,6 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maazueache&label=Profile%20views&color=0e75b6&style=flat" alt="maazueache" /> </p>
 
 - 🌱 I’m currently learning **Java**
+ 
+- 💻 I love building cool projects and contributing to open-source.
+
+- 🔭 I’m looking for exciting opportunities to collaborate on interesting projects.
 
 - 📫 How to reach me **maazueache@gmail.com**
 
