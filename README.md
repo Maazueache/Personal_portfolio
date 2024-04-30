@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Maazu Eache</h1>
 <h3 align="center">A passionate enthusiastic developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="400" height="250" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maazueache&label=Profile%20views&color=0e75b6&style=flat" alt="maazueache" /> </p>
 
